@@ -4,6 +4,9 @@ Esphome RS485 config for Compit Nano Color 2.
 
 Entities names are in Polish, as far as I can tell this ecosystem is available only in Poland. 
 
+<img src="/ha.png" width=300>
+<img src="/ha-debug.png" width=300>
+
 ## Warning
 
 I divided the entities into those necessary for mechanical ventilation with heat recovery and debug, where all registers from the manufacturer's documentation are listed. 
