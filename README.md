@@ -17,7 +17,7 @@ I used [m5stack ATOM Lite with RS485 module](https://shop.m5stack.com/products/a
 
 It's a great module because it can be powered directly from the Nano Color2.
 
-
+![Nano Color 2 with Atom](/nanocolor2.jpg)
 
 
 
