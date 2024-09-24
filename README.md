@@ -18,7 +18,7 @@ In my case, the sensors had different addresses than described, so I assume it's
 
 ## Hardware
 
-I used [m5stack ATOM Lite with RS485 module](https://shop.m5stack.com/products/atom-rs485-kit) but any ESP32/ESP8266 with RS485 to ttl will do.
+I used [m5stack ATOM Lite](https://shop.m5stack.com/products/atom-lite-esp32-development-kit) with [RS485 module](https://shop.m5stack.com/products/atom-tail485) but any ESP32/ESP8266 with RS485 to ttl will do.
 
 It's a great module because it can be powered directly from the Nano Color2.
 
