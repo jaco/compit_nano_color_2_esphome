@@ -6,8 +6,7 @@ Entities names are in Polish, as far as I can tell this ecosystem is available o
 
 This controller is used in ventilation units by Polish manufacturers, in my case it's ECS Piotr Paruszewski / o3ozon.
 
-<img src="/ha.png" width=300>
-<img src="/ha-debug.png" width=300>
+<img src="/ha.png" width=600>
 
 ## Warning
 
